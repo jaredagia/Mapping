@@ -1,3 +1,3 @@
 # Mapping
 
-This file explains thw process of mapping
+This is the process of mapping the Kano Study site in Nigeria
